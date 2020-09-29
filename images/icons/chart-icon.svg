@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="chart-icon" transform="translate(5 5)">
+    <g id="Rounded" transform="translate(-5 -5)">
+      <g id="Editor">
+        <g id="_-Round-_-Editor-_-bar_chart" data-name="-Round-/-Editor-/-bar_chart">
+          <g id="Group_51" data-name="Group 51">
+            <path id="Path" d="M0,0H50V50H0Z" fill="none" fill-rule="evenodd"/>
+            <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M7.917,13.75h.417a2.925,2.925,0,0,1,2.917,2.917V31.25a2.925,2.925,0,0,1-2.917,2.917H7.917A2.925,2.925,0,0,1,5,31.25V16.667A2.925,2.925,0,0,1,7.917,13.75ZM19.583,5A2.925,2.925,0,0,1,22.5,7.917V31.25a2.917,2.917,0,0,1-5.833,0V7.917A2.925,2.925,0,0,1,19.583,5ZM31.25,21.667a2.925,2.925,0,0,1,2.917,2.917V31.25a2.917,2.917,0,1,1-5.833,0V24.583A2.925,2.925,0,0,1,31.25,21.667Z" transform="translate(5.417 5.417)" fill="#39b54a" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

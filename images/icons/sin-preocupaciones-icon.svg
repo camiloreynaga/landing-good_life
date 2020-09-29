@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="sin-preocupaciones-icon" transform="translate(-86.008 -1846)">
+    <circle id="Ellipse_113" data-name="Ellipse 113" cx="31" cy="31" r="31" transform="translate(86.008 1846)" fill="#fff"/>
+    <g id="smile-icon" transform="translate(96.108 1856.2)">
+      <path id="Path_396" data-name="Path 396" d="M20.9,40.866A20.033,20.033,0,1,1,40.9,20.8,20.029,20.029,0,0,1,20.9,40.866Zm0-37.426A17.393,17.393,0,1,0,38.194,20.866,17.494,17.494,0,0,0,20.9,3.44Z" transform="translate(0 0)" fill="#39b54a"/>
+      <path id="Path_397" data-name="Path 397" d="M26.2,43.185h-.33a10.337,10.337,0,0,1-10.3-7.525,1.321,1.321,0,0,1,2.574-.594,7.815,7.815,0,0,0,7.789,5.545h.33a7.745,7.745,0,0,0,7.789-5.545,1.28,1.28,0,0,1,1.584-.924,1.344,1.344,0,0,1,.99,1.584A10.681,10.681,0,0,1,26.2,43.185Z" transform="translate(-4.973 -11.296)" fill="#39b54a"/>
+      <circle id="Ellipse_121" data-name="Ellipse 121" cx="2.31" cy="2.31" r="2.31" transform="translate(11.659 14.661)" fill="#39b54a"/>
+      <circle id="Ellipse_122" data-name="Ellipse 122" cx="2.31" cy="2.31" r="2.31" transform="translate(25.322 14.661)" fill="#39b54a"/>
+    </g>
+  </g>
+</svg>
