@@ -38,6 +38,8 @@ body{
 }
 .card-overlay
 {
+    min-width: 310px;
+    max-width: 500px;
     background-color: #434343d4;
 }
 .card-title, .form_title 
