@@ -132,6 +132,7 @@ body{
 
 }
 
+/* calc to action section  */
 .cta{
     /* padding-top: 30px ; */
     /* padding-bottom: 30px ; */
@@ -158,3 +159,24 @@ body{
     
 }
 
+/* why good life section  */
+
+.why-goodlife
+{
+    background: #fff;
+}
+.why-goodlife_title
+{
+    font-size: calc(1.750em + 1vw);
+    margin-bottom: 3.375rem;
+    color: #707070;
+}
+.why-goodlife_item-title
+{
+    font-size: calc(1.20em + 1vw);
+    color: #434343;
+}
+.why-goodlife_item-text
+{
+    color: #707070;
+}
