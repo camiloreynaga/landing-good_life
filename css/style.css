@@ -134,8 +134,7 @@ body{
 
 /* calc to action section  */
 .cta{
-    /* padding-top: 30px ; */
-    /* padding-bottom: 30px ; */
+    
     padding-top: calc(1.875em + 1vw);
     padding-bottom: calc(1.875em + 1vw);
     background-color:#434343 ;
@@ -150,6 +149,20 @@ body{
     font-weight: 600;
     color: #fff;
     background-color: #Eb4909;
+    width: calc(8em + 1vw);
+    /* max-width: 280px; */
+     /* 3.125rem; */
+    color: #FFFFFF;
+    /* font-size: 1em + 1.25rem;  */
+    text-align: center;
+    
+}
+
+.btn-cal_green{
+    font-size: calc(1em + 1vw);
+    font-weight: 600;
+    color: #fff;
+    background-color: #39B54A;
     width: calc(8em + 1vw);
     /* max-width: 280px; */
      /* 3.125rem; */
@@ -178,5 +191,14 @@ body{
 }
 .why-goodlife_item-text
 {
+    color: #707070;
+}
+
+/* projects section  */
+
+.projects_title
+{
+    font-size: calc(1.750em + 1vw);
+    margin-bottom: 3.375rem;
     color: #707070;
 }
